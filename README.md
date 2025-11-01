@@ -32,7 +32,7 @@ OOP makes programs more reusable, flexible, and easier to maintain.
 #### 🧩 **1. Encapsulation**
 ✅ **Definition:** Wrapping data (variables) and code (methods) together.  
 ✅ **Syntax:**
-```java
+``java
 class Student {
     private int age;
     public void setAge(int a) { age = a; }
