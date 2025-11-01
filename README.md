@@ -408,5 +408,5 @@ If you ever feel confused — just remember:
 
 🧠 End of Module 1 – You’re now Java Ready! 🚀
 
----
+--
 
